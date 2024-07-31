@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'AishwaryaHukkeri'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_942306F34E374C2C85257D303325F3BC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8809DEFC8E764BBCA7DFED5FFE4E9C1A }}
