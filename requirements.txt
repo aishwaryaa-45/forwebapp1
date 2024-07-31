@@ -1,4 +1,9 @@
-Flask==2.0.3
+'''Flask==2.0.3
 gunicorn==20.1.0
 #flask
-python-dotenv
+python-dotenv'''
+Flask==2.1.1
+azure-storage-blob==12.10.0
+gunicorn==20.1.0
+python-dotenv==1.0.0
+Werkzeug==2.0.3
